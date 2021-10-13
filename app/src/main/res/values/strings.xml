@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DADOS</string>
+    <string name="dados">Dados</string>
+    <string name="cara_1">Cara 1:</string>
+    <string name="cara2">Cara 2:</string>
+    <string name="cara3">Cara 3:</string>
+    <string name="cara4">Cara 4:</string>
+    <string name="cara5">Cara 5:</string>
+    <string name="cara6">Cara 6:</string>
+    <string name="_0">0</string>
+    <string name="jugar">Jugar</string>
+    <string name="stop">Empezar de Nuevo</string>
+</resources>
